@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-QuorumerCom::Application.load_tasks
+Quorumer::Application.load_tasks
