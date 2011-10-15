@@ -1,0 +1,8 @@
+== Quorumer
+Originally by Justin Turner
+
+Quorumer is a question and answer framework to the style of Stack Overflow.
+It's goals are to be massive scalable, massively usable, and massively extendable.
+
+== License
+Quorumer is released under the MIT license.
