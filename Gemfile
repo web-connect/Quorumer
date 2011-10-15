@@ -1,12 +1,13 @@
 source 'http://rubygems.org'
 
 gem 'rails', '3.1.1'
-
+gem 'thin'
 # Bundle edge Rails instead:
 # gem 'rails',     :git => 'git://github.com/rails/rails.git'
 
 #gem 'sqlite3'
 gem 'cassandra'
+gem 'active_column'
 gem 'json'
 
 # Gems used only for assets and not required
